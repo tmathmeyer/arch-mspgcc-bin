@@ -1,0 +1,1 @@
+pacman -U *.tar.xz
